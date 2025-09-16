@@ -4,6 +4,7 @@ This project performs Exploratory Data Analysis (EDA) on an eCommerce dataset.
 The analysis covers data cleaning, visualization, and business insights to understand customer behavior and sales patterns.
 
 🗂️ Dataset:
+
 File: eCommerce Store.xlsx
 Contains information about: Customer demographics, Sales transactions, Product categories, Order quantities
 
